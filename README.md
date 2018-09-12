@@ -6,9 +6,9 @@ I created this portfolio to highlight the front-end web development projects I h
 
 # Screenshots
 
-#Tech Stack
+# Tech Stack
 HTML5, CSS3, JavaScript, jQuery, PHP. 
 
-#Local Development Environment
+# Local Development Environment
 XAMPP
 
