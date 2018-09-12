@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<title>Wine Down Booksellers</title>
+	<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/styles.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="scripts/script.js"></script>
+</head>
+<body>
+	<main>
+		<!-- Header Section-->
+		<header id="header">
+			<div class="navigation">
+				<div class="half-width">
+					<img src="img/new-logo.png" href="http://www.preciousmack.com" alt="Precious Mack Design and Development Logo" />
+				</div>
+				<div class="half-width">
+					<!-- Navigation-->
+					<nav>
+						<ul>
+							<li>
+								<a href="http://www.preciousmack.com">Home</a>
+							</li>
+							<li>
+								<a href="http://www.preciousmack.com/#about">About</a>
+							</li>
+							<li>
+								<a href="http://www.preciousmack.com/#portfolio">Portfolio</a>
+							</li>
+							<li>
+								<a href="http://www.preciousmack.com/#contact">Contact</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="full-width">
+				<div class="header-text">
+					<h2> Wine Down Booksellers<br>
+					Web Design Project </h2>
+					<h3>
+						Adobe Photoshop & Illustrator
+					</h3>
+				</div>
+			</div>
+		</header>
+		
+		<!-- Project Section -->
+		<section id="project">
+			<div class="full-width">
+				<div class="half-width">
+					<img src="img/wdb.png" alt="Portfolio image" />
+					<p>
+						Wine Down Booksellers is a web design project I conceptionalized. The main purpose of this site is to promote Wine Down Booksellers, a small independent book and wine merchant in NYC. The site should present the personality of the organization, market their goods, services and events, and encourage visitors to come to their physical location.The underlying idea is to create a wine seller that specializes in pairing readers, wine, and books together based on the user's reading habits and wine preferences.
+					</p>
+				</div>
+				<div class="half-width">
+					<img src="img/persona1.png" alt="Portfolio image" />
+					
+					<p>
+						User personas were created to represent the target audience of Wine Down Booksellers.
+					</p>
+				</div>
+				<div class="half-width">
+					<img src="img/sitemap.png" alt="Portfolio image" />
+					<p>
+						A sitemap was created to ensure the site's navigation would be intuitive.
+					</p>
+				</div>
+				<div class="half-width">
+					<img src="img/wireframe2.png" alt="Portfolio image" class="wireframe" />
+					<img src="img/mockup.png" alt="Portfolio image" class="mockup" />
+					<p>
+						Wireframes were created by hand and then in Balsamiq to layout the basic design of the homepage. <br/><br />
+						Finally, a mockup was created in Adobe Photohop with individual elements created in Adobe Illustrator to respresent the final homepage design.
+					</p>
+				</div>
+			</div>
+		</section>
+		<!-- Contact Section 
+		<?php
+
+		$name="";
+		$email="";
+		$message="";
+
+		if (!empty($error_message))
+		{
+
+		?>
+
+		<p class="error"><?php echo $error_message; ?></p>
+
+		<?php
+
+		}
+		// end if
+		?>
+
+		<section id="contact">
+			<div class="full-width">
+				<div class="half-width">
+					<h2>Let's talk about your project:</h2>
+					<form id="contact-form" method="post" action="userinput.php">
+						<input id="name" type="text" name="name" placeholder="Your Name" required>
+						<br />
+						<input id="email" type="email" name="email" placeholder="Your Email Address" required>
+						<br />
+						<textarea id="message" name="your message" placeholder="How can I help you?" rows="4" cols="50" required>
+				</textarea>
+						<br />
+						<input id="submit-button" type="Submit" value="Submit">
+					</form>
+				</div>
+				<div class="half-width">
+					<p>I'm available for work remotely, but if you're in the Greater NYC area, send me a message or find me on the interwebs and let's grab a coffee.</p>
+					<div class="social-media">
+						<ul>
+							<li>
+								<a href="https://github.com/pfmack" target="_blank"><img src="img/github-square-brands.png" alt="github icon" /></a>
+							</li>
+							<li>
+								<a href="https://codepen.io/pfmack/" target="_blank"><img src="img/codepen-brands.png" alt="codepen icon" /></a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/in/preciousmack/" target="_blank"><img src="img/linkedin-brands.png" alt="linkedin icon" /></a>
+							</li>
+							<li>
+								<a href="https://twitter.com/geekytechiechic" target="_blank"><img src="img/twitter-square-brands.png" alt="twitter icon" /></a>
+							</li>
+						</ul>
+					</div>
+					<br />
+					<img class="map" src="img/map.png" alt="NYC Metro Area Map" />
+				</div>
+			</div>
+		</section> -->
+		<!-- Footer Section -->
+		<footer>
+			<p class="copyright">&copy;2018. Precious Mack. All rights reserved. </p>
+		</footer>
+	</main>
+</body>
+</html>
