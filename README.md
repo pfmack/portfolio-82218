@@ -1,5 +1,6 @@
 # Precious Mack - Web Portfolio
 ![Precious Mack Logo](img/new-logo.png?raw=true)
+
 This is my current web portfolio, found at www.preciousmack.com. This entire project was designed and hand coded by me. 
 
 # Motivation
